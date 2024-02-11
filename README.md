@@ -15,3 +15,4 @@ A brief description of what this project does and who it's for
 
 - [@ajayrath94](https://github.com/ajayrath94/gittutorial)
 
+#Adding More Info to repo
